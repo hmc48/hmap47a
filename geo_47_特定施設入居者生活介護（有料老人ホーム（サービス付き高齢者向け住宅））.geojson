@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_47_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "おもと会医療法人地域包括支援センターかみはら　特定施設入居者生活介護かみはら【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】寄宮1-9-5地域包括ケアセンターかみはら（5F～7F）", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770104869-00&ServiceCd=&Type=search", "url2": "http://www.omotokai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 127.6929856, 26.2104343 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設みやとく【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】沖縄県宮古島市平良字松原552-2", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4775500749-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 125.2799474, 24.7885546 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き高齢者住宅　すこやかの森ヴィラ北谷【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】沖縄県中頭郡北谷町伊平二丁目1番10号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4772400232-00&ServiceCd=&Type=search", "url2": "http://www.sukoyakanomori.jp" }, "geometry": { "type": "Point", "coordinates": [ 127.759674883822996, 26.321882803611 ] } },
+{ "type": "Feature", "properties": { "内容": "うえよなばる介護付有料老人ホームしらゆり【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】沖縄県与那原町字上与那原464番地うえよなばる介護付有料老人ホームしらゆり", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4773400330-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 127.747960101852001, 26.199445374761002 ] } }
+]
+}

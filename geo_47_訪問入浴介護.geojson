@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "geo_47_訪問入浴介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "訪問入浴サービスセンターおもと園【訪問入浴介護】沖縄県那覇市安里１丁目７番地３号　7F", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770100032-00&ServiceCd=120&Type=search", "url2": "http://www.omotokai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 127.6933469, 26.2191814 ] } },
+{ "type": "Feature", "properties": { "内容": "一日橋ケアセンター【訪問入浴介護】沖縄県那覇市上間344番地1グレイスハイムうえま２０７号室", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770101618-00&ServiceCd=120&Type=search", "url2": "https://carenet.okinawa/" }, "geometry": { "type": "Point", "coordinates": [ 127.7141737, 26.1975811 ] } },
+{ "type": "Feature", "properties": { "内容": "がんじゅう湯【訪問入浴介護】沖縄県那覇市首里末吉町4-6-4野原アパート102", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770104083-00&ServiceCd=120&Type=search", "url2": "http://hp.kaipoke.biz/5x2/" }, "geometry": { "type": "Point", "coordinates": [ 127.709829898148001, 26.228111615260399 ] } },
+{ "type": "Feature", "properties": { "内容": "アースサポート那覇【訪問入浴介護】沖縄県那覇市首里鳥堀町5丁目53-2", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770105031-00&ServiceCd=120&Type=search", "url2": "http://www.earthsupport.co.jp森山　典明" }, "geometry": { "type": "Point", "coordinates": [ 127.7283765, 26.216241 ] } },
+{ "type": "Feature", "properties": { "内容": "浦添中央ケアセンター【訪問入浴介護】沖縄県浦添市西原1-13-1", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4760890063-00&ServiceCd=120&Type=search", "url2": "https://carenet.okinawa/" }, "geometry": { "type": "Point", "coordinates": [ 127.7400135, 26.2539882 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問入浴事業所なぐ交じり【訪問入浴介護】沖縄県名護市字為又856－11", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770900613-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 127.979594423660004, 26.607895202508701 ] } },
+{ "type": "Feature", "properties": { "内容": "森のくるみ【訪問入浴介護】沖縄県うるま市字江洲392番地諸見里店舗101号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770402156-00&ServiceCd=120&Type=search", "url2": "http://churagusuku.com" }, "geometry": { "type": "Point", "coordinates": [ 127.826906376091998, 26.351121366560101 ] } },
+{ "type": "Feature", "properties": { "内容": "うるまケアセンター【訪問入浴介護】沖縄県うるま市みどり町５丁目１４番７号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770300426-00&ServiceCd=120&Type=search", "url2": "http://www.cyutoku.or.jp/CARE-NET/HOME.html" }, "geometry": { "type": "Point", "coordinates": [ 127.8527223, 26.3765983 ] } },
+{ "type": "Feature", "properties": { "内容": "みるく福祉サービス【訪問入浴介護】沖縄県うるま市赤道8-11（1Ｆ）", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770300129-00&ServiceCd=120&Type=search", "url2": "https://www.big-advance.site/s/172/2324" }, "geometry": { "type": "Point", "coordinates": [ 127.8329551, 26.3570586 ] } }
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_47_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス　常夏の島【特定施設入居者生活介護（軽費老人ホーム）】沖縄県那覇市牧志三丁目８番１０号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770101493-00&ServiceCd=332&Type=search", "url2": "https://www.youfukai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 127.6910585, 26.2152596 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　ばすきなよお【特定施設入居者生活介護（軽費老人ホーム）】沖縄県石垣市白保２８７番地の６０", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770700286-00&ServiceCd=332&Type=search", "url2": "http://kibougaoka.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 124.234409781615, 24.348292828886699 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスありあけの里【特定施設入居者生活介護（軽費老人ホーム）】沖縄県浦添市字前田1158番地ケアハウスありあけの里", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770800557-00&ServiceCd=332&Type=search", "url2": "http://okicolo.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 127.728982883740002, 26.237332390257901 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスてぃんさぐぬ花【特定施設入居者生活介護（軽費老人ホーム）】沖縄市比屋根1-5-8", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770401620-00&ServiceCd=332&Type=search", "url2": "http://www.ryokujukai.or.jp/kikaku@ryokujukai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 127.8227628, 26.3168121 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス　はいびすかす【特定施設入居者生活介護（軽費老人ホーム）】沖縄県沖縄市胡屋7丁目1番21号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770400788-00&ServiceCd=332&Type=search", "url2": "http://www.ryokujukai,or,jp" }, "geometry": { "type": "Point", "coordinates": [ 127.8104414, 26.3255609 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスふくぎ苑【特定施設入居者生活介護（軽費老人ホーム）】沖縄県うるま市石川3409-8", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4770300533-00&ServiceCd=332&Type=search", "url2": "http://www.fukugikai.com/" }, "geometry": { "type": "Point", "coordinates": [ 127.8353967, 26.4408393 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスいけむら【特定施設入居者生活介護（軽費老人ホーム）】沖縄県宮古島市平良字荷川取290ケアハウスいけむら", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4775500483-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 125.2894891, 24.819197 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_47_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "なは定期巡回ステーション【定期巡回・随時対応型訪問介護看護】那覇市古島2丁目19番7号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4790100590-00&ServiceCd=760&Type=search", "url2": "http://nsleep.com/" }, "geometry": { "type": "Point", "coordinates": [ 127.7079647, 26.2272716 ] } },
+{ "type": "Feature", "properties": { "内容": "まつりか定期巡回ステーション【定期巡回・随時対応型訪問介護看護】沖縄県那覇市首里金城町三丁目32番地", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4790100657-00&ServiceCd=760&Type=search", "url2": "https://shinseikai.okinawa/" }, "geometry": { "type": "Point", "coordinates": [ 127.7159995, 26.2147816 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回ステーションいのり【定期巡回・随時対応型訪問介護看護】沖縄県那覇市若狭Ⅰ-18-11コーポグランソロ101", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4790100780-00&ServiceCd=760&Type=search", "url2": "https://teijuninori.com" }, "geometry": { "type": "Point", "coordinates": [ 127.6745788, 26.2230215 ] } },
+{ "type": "Feature", "properties": { "内容": "たぴっく定期巡回ケアステーション【定期巡回・随時対応型訪問介護看護】沖縄県沖縄市比屋根2丁目1番22号地域ケアホームひやごん", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4790400347-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 127.8248614, 26.3164312 ] } },
+{ "type": "Feature", "properties": { "内容": "うるまケアセンター定期巡回・随時対応型訪問介護看護【定期巡回・随時対応型訪問介護看護】みどり町5丁目14番7号", "url": "https://www.kaigokensaku.mhlw.go.jp/47/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4790300109-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 127.8527223, 26.3765983 ] } }
+]
+}
